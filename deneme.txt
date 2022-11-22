@@ -1,1 +1,1 @@
-﻿branch2 deneme dosyası
+branch-001 olusturuldu.
